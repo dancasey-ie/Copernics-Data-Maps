@@ -1,0 +1,10 @@
+bin/
+etc/
+include/
+lib/
+lib64
+share/
+pyvenv.cfg
+charts/code/.ipynb_checkpoints
+*checkpoint.ipynb
+.mapbox_token
